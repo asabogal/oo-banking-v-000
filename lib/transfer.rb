@@ -1,3 +1,4 @@
+require 'pry'
 class Transfer
 
   attr_accessor :bank_account, :transfer, :sender, :status, :amount
